@@ -9,7 +9,7 @@ import (
 
 	"github.com/olekukonko/tablewriter"
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/config"
+	"github.com/Metronome-Industries/topicctl/pkg/config"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -3,9 +3,9 @@ package rebalancers
 import (
 	"testing"
 
-	"github.com/segmentio/topicctl/pkg/admin"
-	"github.com/segmentio/topicctl/pkg/apply/pickers"
-	"github.com/segmentio/topicctl/pkg/config"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/apply/pickers"
+	"github.com/Metronome-Industries/topicctl/pkg/config"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -15,8 +15,8 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/ec2"
 	ec2types "github.com/aws/aws-sdk-go-v2/service/ec2/types"
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/util"
-	"github.com/segmentio/topicctl/pkg/zk"
+	"github.com/Metronome-Industries/topicctl/pkg/util"
+	"github.com/Metronome-Industries/topicctl/pkg/zk"
 	log "github.com/sirupsen/logrus"
 )
 

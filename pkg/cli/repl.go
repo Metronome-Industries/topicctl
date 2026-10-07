@@ -13,8 +13,8 @@ import (
 	"github.com/c-bata/go-prompt"
 	"github.com/olekukonko/tablewriter"
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/admin"
-	"github.com/segmentio/topicctl/pkg/groups"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/groups"
 	log "github.com/sirupsen/logrus"
 )
 

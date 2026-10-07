@@ -7,8 +7,8 @@ import (
 	"sort"
 
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/admin"
-	"github.com/segmentio/topicctl/pkg/messages"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/messages"
 	log "github.com/sirupsen/logrus"
 )
 

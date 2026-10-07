@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/segmentio/topicctl/pkg/admin"
-	"github.com/segmentio/topicctl/pkg/apply/pickers"
-	"github.com/segmentio/topicctl/pkg/config"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/apply/pickers"
+	"github.com/Metronome-Industries/topicctl/pkg/config"
 )
 
 func TestCrossRackAssignerThreeReplicas(t *testing.T) {

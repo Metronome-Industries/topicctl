@@ -9,7 +9,7 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/hashicorp/go-multierror"
-	"github.com/segmentio/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
 	log "github.com/sirupsen/logrus"
 )
 

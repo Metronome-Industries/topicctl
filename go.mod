@@ -1,4 +1,4 @@
-module github.com/segmentio/topicctl
+module github.com/Metronome-Industries/topicctl
 
 go 1.24.4
 

@@ -3,7 +3,7 @@ package extenders
 import (
 	"testing"
 
-	"github.com/segmentio/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
 )
 
 func TestStaticExtender(t *testing.T) {

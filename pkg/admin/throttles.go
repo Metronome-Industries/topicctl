@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/util"
+	"github.com/Metronome-Industries/topicctl/pkg/util"
 )
 
 // PartitionThrottle represents a throttle being applied to a single partition,
