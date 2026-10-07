@@ -8,7 +8,7 @@ import (
 	"time"
 
 	szk "github.com/samuel/go-zookeeper/zk"
-	"github.com/segmentio/topicctl/pkg/util"
+	"github.com/Metronome-Industries/topicctl/pkg/util"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

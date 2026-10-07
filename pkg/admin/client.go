@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/zk"
+	"github.com/Metronome-Industries/topicctl/pkg/zk"
 )
 
 // Client is an interface for interacting with a cluster for administrative tasks.

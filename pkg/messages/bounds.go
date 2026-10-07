@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
 	log "github.com/sirupsen/logrus"
 
 	// Read snappy-compressed messages

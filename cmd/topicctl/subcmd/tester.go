@@ -11,7 +11,7 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/util"
+	"github.com/Metronome-Industries/topicctl/pkg/util"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

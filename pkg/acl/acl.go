@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/admin"
-	"github.com/segmentio/topicctl/pkg/config"
-	"github.com/segmentio/topicctl/pkg/util"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/config"
+	"github.com/Metronome-Industries/topicctl/pkg/util"
 	log "github.com/sirupsen/logrus"
 )
 

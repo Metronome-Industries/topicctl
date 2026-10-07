@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/topicctl/pkg/util"
+	"github.com/Metronome-Industries/topicctl/pkg/util"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/segmentio/topicctl/cmd/topicctl/subcmd"
+	"github.com/Metronome-Industries/topicctl/cmd/topicctl/subcmd"
 )
 
 var (

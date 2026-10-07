@@ -3,7 +3,7 @@ package config
 import (
 	"testing"
 
-	"github.com/segmentio/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
 	"github.com/stretchr/testify/assert"
 )
 

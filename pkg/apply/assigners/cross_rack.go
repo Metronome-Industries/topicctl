@@ -2,8 +2,8 @@ package assigners
 
 import (
 	"fmt"
-	"github.com/segmentio/topicctl/pkg/admin"
-	"github.com/segmentio/topicctl/pkg/apply/pickers"
+	"github.com/Metronome-Industries/topicctl/pkg/admin"
+	"github.com/Metronome-Industries/topicctl/pkg/apply/pickers"
 	"sort"
 )
 
